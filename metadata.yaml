@@ -1,0 +1,32 @@
+_repo: The-Discovery-of-the-FutureA-Discourse-Delivered-at-the-Royal-Institution_44867
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44867-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: ''
+gutenberg_issued: '2014-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44867'
+  lccn: tmp96025790
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BD'
+- !lcsh 'Time'
+- !lcsh 'Civilization -- Philosophy'
+- !lcsh 'Forecasting'
+- !lcsh 'History -- Philosophy'
+title: The Discovery of the Future
+url: http://www.gutenberg.org/ebooks/44867
